@@ -55,15 +55,25 @@ My experience spans **healthcare technology, fintech, education and on-demand pl
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## GitHub stats
+### 📊 GitHub Statistics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maphorbs&show_icons=true&hide_border=true&bg_color=2b3bff&title_color=ffd23f&text_color=ffffff&icon_color=3ddc97" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maphorbs&layout=compact&hide_border=true&bg_color=2b3bff&title_color=ffd23f&text_color=ffffff" alt="Top languages">
-<br>
-<img width="75%" src="https://streak-stats.demolab.com?user=maphorbs&hide_border=true&background=2b3bff&ring=ffd23f&fire=ff4b6e&currStreakNum=ffffff&currStreakLabel=ffd23f&sideNums=ffffff&sideLabels=ffffff&dates=ffffffb3" alt="GitHub streak">
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maphorbs&bg_color=2b3bff&color=ffffff&line=ffd23f&point=ff4b6e&area=true&hide_border=true" alt="Contribution graph" width="100%">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=maphorbs&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics" />
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maphorbs&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=maphorbs&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
 </div>
 
 ## Let's talk
