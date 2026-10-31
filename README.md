@@ -1,28 +1,73 @@
-<img height="390px" width="100%" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
-<h1 align="center">Hi 👋, I'm Oluwadamilare</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
-<img align="right" alt="My Picture" width="400" src="https://res.cloudinary.com/maphorbs/image/upload/v1681771425/IMG_2425_1_oy1eew.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maphorbs&label=Profile%20views&color=0e75b6&style=flat" alt="maphorbs" /> </p>
+<img src="assets/banner.svg" alt="Oluwadamilare Alonge, software engineer" width="100%">
 
-<p align="left"> <a href="https://twitter.com/dreman3082" target="blank"><img src="https://img.shields.io/twitter/follow/dreman3082?logo=twitter&style=for-the-badge" alt="dreman3082" /></a> </p>
+**I turn complex problems into reliable, scalable software.**
 
-- 🔭 I’m currently working on **Task Manager App**
+<a href="https://linkedin.com/in/oluwadamilarealonge"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b3bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:oluwadamilare.alonge@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ffd23f?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email"></a>
+<a href="https://twitter.com/dreman3082"><img src="https://img.shields.io/badge/X-@dreman3082-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://instagram.com/thatguythatcodes"><img src="https://img.shields.io/badge/Instagram-@thatguythatcodes-ff4b6e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-- 🌱 I’m currently learning **Flutter(Dart)**
+</div>
 
-- 💬 Ask me about **Software, Web, Mobile Apps**
+---
 
-- 📫 How to reach me **oluwadamilare.alonge@gmail.com**
+## About me
 
-- ⚡ Fun fact **I play Games**
+I design, develop, deploy and improve production-ready applications, across the whole lifecycle: understanding the problem, shaping the approach, building it and supporting it in production.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dreman3082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dreman3082" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwadamilarealonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwadamilarealonge" height="30" width="40" /></a>
-<a href="https://instagram.com/thatguythatcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatguythatcodes" height="30" width="40" /></a>
+My experience spans **healthcare technology, fintech, education and on-demand platforms**, across web, mobile, backend systems, databases and cloud infrastructure. I bring a product mindset: user needs, business goals, reliability and the long-term impact of technical decisions.
+
+- 🧩 **What I build:** web platforms, cross-platform mobile apps, backend services, API-driven systems
+- ⚙️ **Core strengths:** backend, full-stack, mobile, API design, infrastructure
+- 🔍 **Exploring:** system design, offline-first apps, AI-enabled workflows, application security
+- 🎮 **Off the clock:** gaming, learning, trying new tech
+
+<img src="assets/services.svg" alt="What I do" width="100%">
+
+## Toolkit
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## GitHub stats
+
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maphorbs&show_icons=true&hide_border=true&bg_color=2b3bff&title_color=ffd23f&text_color=ffffff&icon_color=3ddc97" alt="GitHub stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maphorbs&layout=compact&hide_border=true&bg_color=2b3bff&title_color=ffd23f&text_color=ffffff" alt="Top languages">
+<br>
+<img width="75%" src="https://streak-stats.demolab.com?user=maphorbs&hide_border=true&background=2b3bff&ring=ffd23f&fire=ff4b6e&currStreakNum=ffffff&currStreakLabel=ffd23f&sideNums=ffffff&sideLabels=ffffff&dates=ffffffb3" alt="GitHub streak">
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maphorbs&bg_color=2b3bff&color=ffffff&line=ffd23f&point=ff4b6e&area=true&hide_border=true" alt="Contribution graph" width="100%">
+</div>
+
+## Let's talk
+
+I'm open to connecting with engineers, founders and teams building meaningful products. Reach me at [oluwadamilare.alonge@gmail.com](mailto:oluwadamilare.alonge@gmail.com).
+
+<div align="center"><i>“Great software is more than code. It’s thoughtful problem-solving, purposeful engineering, and technology that makes a difference.”</i></div>
